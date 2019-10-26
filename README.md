@@ -1,1 +1,1 @@
-Böte Arşiv genel internet kullanıcılarını ve böte bölümü öğrencilerini hedef alarak oluşturulmuştur.
+CodeBox genel programcı ktilesi hedef alınarak oluşturulmaktadır.
